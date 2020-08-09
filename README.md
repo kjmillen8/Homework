@@ -1,3 +1,3 @@
 # Homework
-Where I will upload homework.
+Where I will upload homework assignments.
 
